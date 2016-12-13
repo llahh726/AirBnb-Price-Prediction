@@ -6,7 +6,7 @@ Jiacheng Zhao, Alex Lin. 2016-12-13
 
 Website link: https://alex-lin-ynyw.squarespace.com
 
-Notebooks
+Notebooks:
 
 Data cleaning, data exploration, and listings model (regression and classification): data-cleaninglistings-model.ipynb
 
